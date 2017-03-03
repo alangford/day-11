@@ -1,0 +1,24 @@
+moment JS
+a very good library for time
+its a light form to display time
+create a new date obj.
+
+
+
+Jquary
+DOM stands for Document Object Model
+Supplies API to access and manipulate DOM nodes
+
+the web was originally made to have just links everywhere
+
+always load your library files before your js file.
+
+you can create a whole new paragraph with JQuery
+var paragraph $("<p>hello</p>")
+.append attaches an element after the original targeted content
+.prepend attaches an element before the original targeted content
+.remove remove the content
+.val will pull what you put in a form a string
+.html will will give you the inner html
+.hide will give your tag a display of none
+.show will revert the display back to normal
